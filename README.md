@@ -1,7 +1,7 @@
 # qelectrotech-elements
 Elemente (shapes) für QElectroTech (https://qelectrotech.org)
 
-== INHALT
+## INHALT
 
 -  NETZWERK
    - 5-Port Switch mit 4-PoE
