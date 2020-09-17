@@ -1,0 +1,35 @@
+<definition link_type="simple" hotspot_x="40" type="element" height="160" orientation="dyyy" version="0.80" width="100" hotspot_y="75">
+    <uuid uuid="{cf058861-bc6d-46fe-bd07-2e2a44e120ff}"/>
+    <names>
+        <name lang="de">Pumpengruppe ungemischt</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <circle antialias="false" y="-7" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-25" diameter="30"/>
+        <circle antialias="false" y="-45" style="line-style:normal;line-weight:normal;filling:none;color:black" x="15" diameter="30"/>
+        <arc antialias="true" height="20" angle="90" y="-38" style="line-style:normal;line-weight:normal;filling:none;color:red" width="20" x="20" start="0"/>
+        <arc antialias="true" height="20" angle="90" y="-38" style="line-style:normal;line-weight:normal;filling:none;color:blue" width="20" x="20" start="90"/>
+        <circle antialias="false" y="-45" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-25" diameter="30"/>
+        <polygon y2="42" antialias="false" x1="22" style="line-style:normal;line-weight:normal;filling:none;color:black" closed="false" x2="22" x3="22" y3="-17" y1="52"/>
+        <polygon y6="65" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-17" x3="40" x6="20" x1="38" y3="65" closed="false" y4="70" y5="70" y8="58" x5="20" y2="65" x8="22" y9="52" x7="22" y7="65" x9="22" x2="38" x4="40" antialias="false"/>
+        <polygon y6="-57" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-43" x3="-20" x6="0" x1="-18" y3="-57" closed="false" y4="-60" y5="-60" y8="-43" x5="0" y2="-57" x8="-2" x7="-2" y7="-57" x2="-18" x4="-20" antialias="false"/>
+        <polygon y6="-57" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-43" x3="20" x6="40" x1="22" y3="-57" closed="false" y4="-60" y5="-60" y8="-43" x5="40" y2="-57" x8="38" x7="38" y7="-57" x2="22" x4="20" antialias="false"/>
+        <polygon y2="15" antialias="false" x1="-10" style="line-style:normal;line-weight:normal;filling:black;color:black" x2="-23" x3="3" y3="15" y1="-7"/>
+        <line y2="-34" antialias="false" end1="none" x1="30" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="20" y1="-26" length1="1.5" end2="none"/>
+        <arc antialias="true" height="20" angle="90" y="-38" style="line-style:normal;line-weight:normal;filling:none;color:red" width="20" x="-20" start="0"/>
+        <arc antialias="true" height="20" angle="90" y="-38" style="line-style:normal;line-weight:normal;filling:none;color:blue" width="20" x="-20" start="90"/>
+        <line y2="-34" antialias="false" end1="none" x1="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="0" y1="-26" length1="1.5" end2="none"/>
+        <circle antialias="false" y="-28" style="line-style:normal;line-weight:normal;filling:black;color:black" x="-12" diameter="4"/>
+        <circle antialias="false" y="-28" style="line-style:normal;line-weight:normal;filling:black;color:black" x="28" diameter="4"/>
+        <rect antialias="false" height="150" y="-70" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="90" x="-35" rx="0"/>
+        <line y2="-17" antialias="false" end1="none" x1="-18" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="-18" y1="-5" length1="1.5" end2="none"/>
+        <line y2="-17" antialias="false" end1="none" x1="-2" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" x2="-2" y1="-5" length1="1.5" end2="none"/>
+        <polygon y6="65" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="21" x3="-20" x6="0" x1="-18" y3="65" closed="false" y4="70" y5="70" y8="21" x5="0" y2="65" x8="-2" x7="-2" y7="65" x2="-18" x4="-20" antialias="false"/>
+        <terminal y="-60" orientation="n" x="30"/>
+        <terminal y="70" orientation="s" x="30"/>
+        <terminal y="-60" orientation="n" x="-10"/>
+        <terminal y="70" orientation="s" x="-10"/>
+    </description>
+</definition>

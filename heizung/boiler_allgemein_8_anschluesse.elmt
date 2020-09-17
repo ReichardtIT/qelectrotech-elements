@@ -1,0 +1,40 @@
+<definition version="0.80" height="250" hotspot_y="115" orientation="dyyy" hotspot_x="63" type="element" link_type="simple" width="130">
+    <uuid uuid="{4e7bbc50-bc7b-4f0f-b402-5f08eddeffd9}"/>
+    <names>
+        <name lang="de">Boiler 8 Anschlüsse</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <rect x="-58" height="201" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0" y="-94" width="120" antialias="true"/>
+        <circle x="-1.5" diameter="3" style="line-style:normal;line-weight:normal;filling:none;color:black" y="118.5" antialias="true"/>
+        <circle x="-1.5" diameter="3" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-111.5" antialias="true"/>
+        <circle x="48.5" diameter="3" style="line-style:normal;line-weight:normal;filling:none;color:black" y="88.5" antialias="true"/>
+        <circle x="48.5" diameter="3" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-81.5" antialias="true"/>
+        <arc x="-58" height="36" style="line-style:normal;line-weight:normal;filling:none;color:black" start="-180" y="-112.5" angle="-180" width="120" antialias="true"/>
+        <circle x="-53.75" diameter="7.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-83.75" antialias="true"/>
+        <circle x="-53.75" diameter="7.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y="16.25" antialias="true"/>
+        <circle x="-53.75" diameter="7.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-63.75" antialias="true"/>
+        <circle x="-53.75" diameter="7.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y="-23.75" antialias="true"/>
+        <circle x="-53.75" diameter="7.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y="66.25" antialias="true"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y3="130.75" y2="130.75" y5="120.75" x5="41.875" x4="41.875" x3="41.875" y1="115.75" x1="56.875" y4="120.75" x2="56.875" antialias="true"/>
+        <polygon style="line-style:normal;line-weight:normal;filling:none;color:black" y3="130.75" y2="130.75" y5="120.75" x5="-38.125" x4="-38.125" x3="-38.125" y1="115.75" x1="-53.125" y4="120.75" x2="-53.125" antialias="true"/>
+        <arc x="-58.125" height="36" style="line-style:normal;line-weight:normal;filling:none;color:black" start="0" y="89.25" angle="-180" width="120" antialias="true"/>
+        <circle x="-53.75" diameter="7.5" style="line-style:normal;line-weight:normal;filling:none;color:black" y="86.25" antialias="true"/>
+        <dynamic_text x="-2" Valignment="AlignTop" text_from="ElementInfo" z="21" font="Sans Serif,7,-1,5,50,0,0,0,0,0" frame="false" text_width="-1" rotation="0" y="-1" uuid="{292b4c24-1975-4644-be88-9256a20a4c7a}" Halignment="AlignLeft">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal x="-50" orientation="w" y="90"/>
+        <terminal x="-50" orientation="w" y="70"/>
+        <terminal x="0" orientation="n" y="-110"/>
+        <terminal x="-50" orientation="w" y="-60"/>
+        <terminal x="-50" orientation="w" y="-80"/>
+        <terminal x="-50" orientation="w" y="-20"/>
+        <terminal x="0" orientation="s" y="120"/>
+        <terminal x="-50" orientation="w" y="20"/>
+        <terminal x="50" orientation="e" y="-80"/>
+        <terminal x="50" orientation="e" y="90"/>
+    </description>
+</definition>
